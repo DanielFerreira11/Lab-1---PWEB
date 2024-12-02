@@ -1,0 +1,6 @@
+O versionamento é uma maneira de organizar o código de um sistema, para rastrear qualquer
+adição, edição ou remoção de código. Com ele é possível organizar o desenvolvimento em vários fluxos, 
+e paralelizar as funcionalidades, permitindo mais agilidade e organização nas tarefas. Além disso,
+o versionamento também possibilita o backup de código, com a criação de branches e repositórios, locais e remotos.
+Atualmente, o versionamento é base para o desenvolvimento em equipe, e sem ele, os sistemas seriam muito mais desorganizados
+e sujeitos a sobreposição de código, erros de compilação, perda de código, entre outros.
