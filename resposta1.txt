@@ -1,0 +1,7 @@
+O HTML surgiu como uma ferramenta de formatação e divulgação de hipertextos no contexto acadêmico e científico,
+a ideia era organizar as informações de uma maneira clara e estrturada, permitindo também o link com outros hipertextos relacionados.
+Com o tempo, percebeu-se que esse tipo de estrutura poderia ser utilizada para o compartilhamento de diversas outras informações e conteúdos, viabilizando um acesso 
+rápido e eficiente. Dessa maneira, a comunidade se reuniu e iniciou a estruturação dos protocolos, ferramentas e tecnologias que seriam utilizados para dar forma a Web.
+A partir disso, surgem os métodos HTTP(GET, POST, PUT, DELETE,etc), a linguagem de marcação HTML, a estilização através do CSS e desenvolvimento das funcionalidades pelo JavaScript.
+Todas essas tecnologias tornaram os sistemas WEB muito mais dinâmicos e as páginas mais customizáveis e agradáveis ao visual. Além de fazer como que esses sistemas se popularizassem além do meio acadêmico e científico,
+democratizando o acesso a informação para a comunidade em geral.
