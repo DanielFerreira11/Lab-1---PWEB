@@ -1,5 +1,3 @@
-
-
 Três ferramentas importantes para o desenvolvimento WEB são: o HTML que faz a estruturação das páginas, como se fosse o esqueleto dos componentes.
 O CSS que é a ferramenta responsável por estilizar esses componentes e tornar o visual das páginas mais agradável, intuitivo e visual.E por fim, 
 o JavaScript, que é uma linguagem multiparadigma que torna as páginas WEB dinâmicas e orientadas a eventos. Com o JavaScript e seus frameworks 
