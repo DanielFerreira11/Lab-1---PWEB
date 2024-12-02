@@ -1,0 +1,6 @@
+Uma boa prática seria primeiro documentar bem a ideia do projeto, definir as entidades, seus relacionamentos e os requisitos
+funcionais e não funcionais de cada uma. Em seguida, definir bem a arquitetura do projeto e sua API, implementando
+os métodos e as entidades no Banco de Dados e no Backend. Feito isso, seria partir para a implementação, seguindo os princípios básicos
+do versionamento, organizando as branches em funcionalidades, commits, e fazendo uma revisão detalhada antes do Merge das mesmas no fluxo principal do código.
+O mesmo deve ser feito com a parte de frontend, sempre mantendo a comunicação bem estabelecida, de quem vai fazer o que e de até quando teremos para finalizar, já que
+existem diversos prazos a serem cumpridos para a entrega final.
