@@ -1,0 +1,5 @@
+O JavaScript é importante pois é ele que da a vida aos componentes, e faz os mesmos reagirem a determinados eventos.
+Se eu tenho uma página apenas com HTML e CSS, ela é muito estática e limitada a links, formulários e textos, com o JavaScript,
+é possível dinamizar a página, fazendo uma conexão com APIs, disparando requisições, e até mesmo fazendo com que os próprios elementos HTML
+possuam comportamentos que vão além do seu padrão de implementação. Além disso, o JavaScript passou por várias atualizações e melhorias,
+tendo diversos frameworks que facilitam tanto o desenvolvimento frontend (react, angulas, vue, etc) quando backend (express,nodejs, nest).
